@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ridstempl.github.io/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/app/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/assets/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/css/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/data/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/includes/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/item/sitemap.html.gz
+Sitemap: https://ridstempl.github.io/src/sitemap.html.gz
